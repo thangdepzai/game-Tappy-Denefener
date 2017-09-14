@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\thang\AndroidStudioProjects\TappyDefender\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edee454807590997b78b3138b90194b571264f01">
+        <dex dex="C:\Users\thang\AndroidStudioProjects\TappyDefender\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_45535608913fa33698b0e8e99f504eba59f99a3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thang\AndroidStudioProjects\TappyDefender\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\thang\AndroidStudioProjects\TappyDefender\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_19d1877f7c65c7d958ca1577d028ae18b8572310\classes.dex" />
+    </item>
+
+</items>
